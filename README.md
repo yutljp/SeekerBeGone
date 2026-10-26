@@ -74,3 +74,7 @@ running. Item stands are not covered by the harness.
   (egg hatching runs `Awake` inside a physics callback), trophy replacement.
   `Tick_stared` is not a prefab in Valheim 1.0.12 and was dropped from the
   defaults.
+
+## License
+
+MIT. See [LICENSE](LICENSE).
